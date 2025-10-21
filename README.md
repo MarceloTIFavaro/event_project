@@ -10,7 +10,7 @@
 
 Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolvida com Django. Permite que usuários se registrem, autentiquem e gerenciem eventos.
 
-[Instalação](#instalacao) •
+[Instalação](#instalação) •
 [Arquitetura](#arquitetura) 
 
 </div>
