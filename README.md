@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Event Project
+# Event Project
 
 ### Sistema de Gerenciamento de Eventos
 
@@ -21,33 +21,11 @@ Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolv
 
 ---
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
-O **Event Project** é uma aplicação web completa para gerenciamento de eventos, construída com as melhores práticas de desenvolvimento Django. O sistema oferece autenticação personalizada, gerenciamento de perfis de usuários e funcionalidades abrangentes para criação e administração de eventos.
+O **Event Project** é uma aplicação web para gerenciamento de eventos. Aonde os usuarios poderam se cadastrar, criar/gerenciar eventos e participar de eventos.
 
-### ✨ Características
-
-- 🔐 **Autenticação Segura**
-  - Sistema de registro e login personalizado
-  - Validação robusta de dados do usuário
-  - Gerenciamento de sessões seguro
-
-- 👥 **Gestão de Usuários**
-  - Modelo de usuário customizado com campos estendidos
-  - Validação internacional de números de telefone
-  - Perfis de usuário completos
-
-- 📅 **Gerenciamento de Eventos**
-  - Criação, edição e exclusão de eventos
-  - Sistema de participantes
-  - Listagem e visualização detalhada de eventos
-
-- 🛡️ **Painel Administrativo**
-  - Interface admin do Django totalmente configurada
-  - Gerenciamento completo de usuários e eventos
-  - Filtros e buscas avançadas
-
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Core
 - **[Python 3.13](https://www.python.org/)** - Linguagem de programação
@@ -55,8 +33,8 @@ O **Event Project** é uma aplicação web completa para gerenciamento de evento
 - **[Django REST Framework 3.16.1](https://www.django-rest-framework.org/)** - API RESTful
 
 ### Banco de Dados
-- **SQLite3** - Desenvolvimento (padrão)
-- **PostgreSQL** - Produção (suportado via psycopg2)
+- **SQLite3**
+- **PostgreSQL** 
 
 ### Bibliotecas Adicionais
 - **phonenumbers 9.0.16** - Validação de números de telefone
@@ -109,7 +87,7 @@ event_project/
 1. **Clone o repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/event_project.git
+git clone https://github.com/MarceloTIFavaro/event_project.git
 cd event_project
 ```
 
@@ -151,13 +129,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-7. **Colete arquivos estáticos** (para produção)
-
-```bash
-python manage.py collectstatic
-```
-
-## 💻 Uso
+## Uso
 
 ### Desenvolvimento
 
@@ -188,7 +160,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-## 🗄️ Modelos de Dados
+## Modelos de Dados
 
 ### User (Usuário Customizado)
 - `email` - Email único (usado para login)
@@ -213,47 +185,22 @@ python manage.py migrate
 - `user` - Usuário participante (ForeignKey)
 - `registered_at` - Data de inscrição
 
-## 🤝 Contribuindo
-
-Contribuições são muito bem-vindas! Para contribuir:
-
-1. Faça um **fork** do projeto
-2. Crie uma **branch** para sua feature (`git checkout -b feature/NovaFuncionalidade`)
-3. **Commit** suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Faça **push** para a branch (`git push origin feature/NovaFuncionalidade`)
-5. Abra um **Pull Request**
-
-### Diretrizes de Contribuição
-
-- Siga o [PEP 8](https://pep8.org/) para estilo de código Python
-- Escreva testes para novas funcionalidades
-- Atualize a documentação conforme necessário
-- Mantenha as mensagens de commit claras e descritivas
-
-## 📝 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👨‍💻 Autor
 
-**Marcelo**
+**Marcelo Henrique Favaro**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu-email@exemplo.com
-
-## 📞 Suporte
-
-Se você tiver alguma dúvida ou problema, por favor:
-
-1. Verifique a [documentação](docs/)
-2. Abra uma [issue](https://github.com/seu-usuario/event_project/issues)
-3. Entre em contato pelo email de suporte
+- GitHub: [@seu-usuario](https://github.com/MarceloTIFavaro)
+- Email: mfavaro53@exemplo.com
 
 ---
 
 <div align="center">
 
-Desenvolvido com ❤️ usando Django
+Desenvolvido com Django
 
 **[⬆ Voltar ao topo](#-event-project)**
 
