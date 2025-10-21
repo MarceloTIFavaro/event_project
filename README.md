@@ -183,10 +183,6 @@ python manage.py migrate
 - `user` - Usuário participante (ForeignKey)
 - `registered_at` - Data de inscrição
 
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Autor
 
 **Marcelo Henrique Favaro**
