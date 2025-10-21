@@ -10,12 +10,8 @@
 
 Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolvida com Django. Permite que usuários se registrem, autentiquem e gerenciem eventos.
 
-[Características](#-características) •
-[Tecnologias](#-tecnologias) •
 [Instalação](#-instalação) •
-[Uso](#-uso) •
 [Arquitetura](#-arquitetura) •
-[Contribuindo](#-contribuindo)
 
 </div>
 
@@ -25,7 +21,7 @@ Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolv
 
 O **Event Project** é uma aplicação web voltada para o gerenciamento de eventos. Os usuários podem se cadastrar, criar, organizar e participar de eventos.
 
-## **IMPORTANTE**
+**IMPORTANTE**
 Este projeto não utiliza práticas de Inteligência Artificial. Ele foi criado com o propósito de aprimorar meus conhecimentos em Python e Django, utilizando apenas pesquisas na web, incluindo sites oficiais do próprio framework Django 
 
 ## Tecnologias
