@@ -1,0 +1,22 @@
+# Ambientes Virtuais 
+venv/
+env/
+
+# Arquivos de compilação
+*.pyc
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados 
+db.sqlite3
+
+# Configurações locais e arquivos de ambiente
+local_settings.py
+.env
+
+# Outros arquivos comuns
+*.pot
+.DS_Store
+Thumbs.db
