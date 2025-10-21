@@ -10,8 +10,8 @@
 
 Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolvida com Django. Permite que usuários se registrem, autentiquem e gerenciem eventos.
 
-[Instalação](#-instalação) •
-[Arquitetura](#-arquitetura) 
+[Instalação](#instalacao) •
+[Arquitetura](#arquitetura) 
 
 </div>
 
@@ -196,7 +196,7 @@ python manage.py migrate
 
 Desenvolvido com Django ❤️
 
-**[⬆ Voltar ao topo](#-event-project)**
+**[⬆ Voltar ao topo](#event-project)**
 
 </div>
 
