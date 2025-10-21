@@ -11,8 +11,7 @@
 Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolvida com Django. Permite que usuários se registrem, autentiquem e gerenciem eventos.
 
 [Instalação](#-instalação) •
-[Uso](#-uso) •
-[Arquitetura](#-arquitetura) •
+[Arquitetura](#-arquitetura) 
 
 </div>
 
@@ -22,8 +21,7 @@ Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolv
 
 O **Event Project** é uma aplicação web voltada para o gerenciamento de eventos. Os usuários podem se cadastrar, criar, organizar e participar de eventos.
 
-**IMPORTANTE**
-Este projeto não utiliza práticas de Inteligência Artificial. Ele foi criado com o propósito de aprimorar meus conhecimentos em Python e Django, utilizando apenas pesquisas na web, incluindo sites oficiais do próprio framework Django 
+**IMPORTANTE**: Este projeto não utiliza práticas de Inteligência Artificial. Ele foi criado com o propósito de aprimorar meus conhecimentos em Python e Django, utilizando apenas pesquisas na web, incluindo sites oficiais do próprio framework Django 
 
 ## Tecnologias
 
@@ -42,7 +40,7 @@ Este projeto não utiliza práticas de Inteligência Artificial. Ele foi criado 
 - **django-cors-headers 4.9.0** - Gerenciamento de CORS
 - **Pillow 12.0.0** - Processamento de imagens
 
-## 📁 Arquitetura
+## Arquitetura
 
 ```
 event_project/
@@ -74,7 +72,7 @@ event_project/
 └── README.md            # Este arquivo
 ```
 
-## 🔧 Instalação
+## Instalação
 
 ### Pré-requisitos
 
@@ -189,18 +187,18 @@ python manage.py migrate
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👨‍💻 Autor
+## Autor
 
 **Marcelo Henrique Favaro**
 
-- GitHub: [@seu-usuario](https://github.com/MarceloTIFavaro)
+- GitHub: [MarceloTIFavaro](https://github.com/MarceloTIFavaro)
 - Email: mfavaro53@exemplo.com
-
+- Linkedin: [Marcelo Favaro](https://www.linkedin.com/in/marcelo-favaro-98b37726b/)
 ---
 
 <div align="center">
 
-Desenvolvido com Django
+Desenvolvido com Django ❤️
 
 **[⬆ Voltar ao topo](#-event-project)**
 
