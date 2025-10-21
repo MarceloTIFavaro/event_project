@@ -11,7 +11,7 @@
 Uma plataforma web robusta e escalável para gerenciamento de eventos, desenvolvida com Django. Permite que usuários se registrem, autentiquem e gerenciem eventos.
 
 [Instalação](#-instalação) •
-[Arquitetura](#-arquitetura) •
+[Arquitetura](#-arquitetura)
 
 </div>
 
@@ -127,8 +127,6 @@ python manage.py migrate
 ```bash
 python manage.py createsuperuser
 ```
-
-## Uso
 
 ### Desenvolvimento
 
